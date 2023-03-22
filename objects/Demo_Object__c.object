@@ -175,8 +175,8 @@
         <unique>false</unique>
     </fields>
     <fields>
-    
-        <fullName>Field2__c</fullName>
+      
+       <fullName>Field2__c</fullName>
         <externalId>false</externalId>
         <label>Field2</label>
         <length>23</length>
