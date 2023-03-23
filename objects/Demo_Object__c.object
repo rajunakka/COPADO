@@ -175,10 +175,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-      
-       <fullName>Field2__c</fullName>
+     <fullName>Field3__c</fullName>
         <externalId>false</externalId>
-        <label>Field2</label>
+        <label>Field3</label>
         <length>23</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
