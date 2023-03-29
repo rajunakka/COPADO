@@ -164,6 +164,7 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+    
         <fullName>Field1__c</fullName>
         <externalId>false</externalId>
         <label>Field1</label>
