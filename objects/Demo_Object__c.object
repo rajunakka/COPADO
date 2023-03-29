@@ -155,6 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Demo Object</label>
     <nameField>
+    
         <label>Demo Object Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>
@@ -164,7 +165,7 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
-    
+
         <fullName>Field1__c</fullName>
         <externalId>false</externalId>
         <label>Field1</label>
